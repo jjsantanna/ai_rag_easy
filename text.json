@@ -1,0 +1,11 @@
+{
+    "user": {
+        "name": "John Doe",
+        "age": 30,
+        "interests": ["programming", "music", "sports"]
+    },
+    "orders": [
+        {"id": 1, "product": "laptop", "price": 999.99},
+        {"id": 2, "product": "phone", "price": 599.99}
+    ]
+}
